@@ -1,4 +1,4 @@
-# Reproducibility package for "Ionospheric Observations from the ISS: Overcoming Noise Challenges in Signal Extraction"
+# Reproducibility package for "A Statistical Framework for Signal Extraction in Noisy Ionospheric Observations from the International Space Station"
 
 This repository is solely for reproducing the data processing and figure generation for the associated paper from provided raw inputs. This is not a 
 general-purpose pipeline and is not supported for other datasets.
