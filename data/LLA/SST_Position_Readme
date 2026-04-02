@@ -1,0 +1,15 @@
+The 13 data files in this Teams directory contain Space station (SST) location data
+as a function of time for the entire mission for which EPEE was active. The files
+contain 10 columns and (43200) X (Number of Days Per Month) rows.  The 43200 value
+derives from the sample rate of EPEE which was one sample for every 2 seconds.
+
+The columns are from left to right :
+Year, Month, Day of Month, Day of Year, Hour, Minute, Second, Latitude, Longitude,
+Altitude
+
+For questions or problems with these data please feel free to contact :
+
+John Williams
+john.williams@afacademy.af.edu
+(845)743-2384
+
