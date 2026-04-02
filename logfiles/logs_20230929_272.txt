@@ -1,0 +1,2 @@
+2026-03-19 11:16:09.939754 Starting 20230929
+2026-03-19 11:16:10.32958 Matrix conversion done for 20230929 -chunk 1
